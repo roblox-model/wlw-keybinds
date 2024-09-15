@@ -62,13 +62,24 @@
 # Other Features
 
 **N** - Manual Refit
+
 **X** - Teleport to Origin
+
 **C** - Anchor character in place
+
 **V** - UnVanish
+
 **F** - Toggle Flight
+
 **Ctrl** - Toggle Sprint
+
 **Shift** - Dash
+
 **NUMPAD7** - Music Toggle (Broken)
+
 **NUMPAD8** - Idle Pose Switch
+
 **NUMPAD9** - Taunt
+
 **NUMPAD0** - Stopscript
+
